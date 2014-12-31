@@ -44,7 +44,7 @@ Pliki nagłówkowe biblioteki wiiuse.
 %setup -q -n %{name}_v%{version}
 
 %build
-%{__make} \
+%{__make} -j1 \
 	CC="%{__cc}" \
 	CFLAGS="%{rpmcflags} -Wall -pipe -fPIC"
 
