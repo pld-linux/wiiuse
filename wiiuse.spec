@@ -2,7 +2,7 @@ Summary:	Wiiuse - library for several Nintendo Wii controllers
 Summary(pl.UTF-8):	Wiiuse - biblioteka do kilku kontrolerów Nintendo Wii
 Name:		wiiuse
 Version:	0.12
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/wiiuse/%{name}_v%{version}_src.tar.gz
